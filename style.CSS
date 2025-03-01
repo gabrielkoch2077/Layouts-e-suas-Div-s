@@ -1,24 +1,44 @@
-.azul {
-
-    background-color: rgb(37, 167, 197);
-    padding: 100px;
-    padding-right: 1000px;
-
+body {
+    background-color: rgb(69, 194, 210);
 }
 
-.amarela {
 
-    background-color: rgb(235, 211, 34);
-    padding: 100px;
-    margin: 30px;
-
+.container {
+    max-width: 480px;
+    margin: 0 auto;
 }
 
-.flex {
 
+.amarelo {
+    padding: 30px;
+    margin:  50px;
+    background-color: rgb(210, 194, 69);
+    box-sizing: border-box;
+}
+
+
+.flexivel {
     display: flex;
-
 }
-.esticado{
-    padding-right: 370px;
+
+
+.crescer {
+    padding-bottom: 300px;
+}
+
+
+.crescer2 {
+
+
+    padding-bottom:150px;
+}
+
+
+.alongar {
+    padding-right: 300px;
+}
+
+
+.alongar2 {
+    padding-right: 470px;
 }
